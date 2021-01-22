@@ -59,5 +59,4 @@ class TransactionsRepository {
     return transaction;
   }
 }
-
 export default TransactionsRepository;
